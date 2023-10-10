@@ -1,4 +1,5 @@
 ### I like making simple foods with fancy names (currently making Creme Brulee) 👋
+## Part-time Trophy Hunter.
 
 <!--
 **Tanziti/tanziti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
