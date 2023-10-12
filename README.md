@@ -1,4 +1,4 @@
-## Full-time Coder. Part-time Trophy Hunter on PLaystation Network. 👋
+## Full-time Coder. Part-time Trophy Hunter on Playstation Network. 👋
 ### I like making simple foods with fancy names (Currently on Creme Brulee) 
 
 <!--
