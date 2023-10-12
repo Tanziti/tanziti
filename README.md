@@ -1,5 +1,5 @@
 ## Full-time Coder. Part-time Trophy Hunter on PLaystation Network. 👋
-### I like making simple foods with fancy names (wink. wink. Creme Brulee) 
+### I like making simple foods with fancy names (Currently on Creme Brulee) 
 
 <!--
 **Tanziti/tanziti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
