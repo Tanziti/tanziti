@@ -1,5 +1,5 @@
 # Hi! My name is Zi Tan! 👋
-## Full-time Software Engineer. Part-time Trophy Hunter on Playstation Network. I enjoy making simple foods with fancy names (Currently on Cacio e pepe) 
+## Full-time Software Engineer. Part-time Trophy Hunter on Playstation Network. I enjoy making simple foods with fancy names (Currently on Cacio e Pepe) 
 
 
  ### ✨ My Skills ✨ 
@@ -7,7 +7,8 @@
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,express,mongodb,postgres,postman,react,redux,rails,ruby,nodejs)](https://skillicons.dev)
 
 
-🌱 I’m currently learning Data Structures and Algorithms!
+
+### 🌱 I’m currently learning Data Structures and Algorithms!
 
 
 ### 💬 Ask me about my projects!
@@ -24,7 +25,9 @@ Tanzitian3@gmail.com
 
 
  ### ⚡ Fun facts: 
- I love to write 📝 I love to cook 🍳 I love to read 📚
+ I love to write 📝 
+ I love to cook 🍳 
+ I love to read 📚
 
 
 
