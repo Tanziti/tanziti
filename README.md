@@ -13,16 +13,19 @@
 
 💬 Ask me about my projects!
 
-  [Cloudify](https://cloudify1-afaa8a2d43bc.herokuapp.com/) - A Spotify Clone made using React, Redux, Javascript as frontend and Rails as a backend.
+ ### [Cloudify](https://cloudify1-afaa8a2d43bc.herokuapp.com/) - A Spotify Clone made using React, Redux, Javascript as frontend and Rails as a backend.
   
-  [Running Idle](https://running-idle.onrender.com/) - An exercise app turned game created using the MERN stack.
+ ### [Running Idle](https://running-idle.onrender.com/) - An exercise app turned game created using the MERN stack.
 
 
-📫 How to reach me: Tanzitian3@gmail.com
+### 📫 How to reach me: 
+Tanzitian3@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzitian/)
 
 
- ⚡ Fun fact: I love to write 📝 I love to cook 🍳 I love to read 📚
+ ### ⚡ Fun facts: 
+ I love to write 📝 I love to cook 🍳 I love to read 📚
 
 
 
