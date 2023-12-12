@@ -1,6 +1,5 @@
-# Hi! My name is Zi Tan! 
-## Full-time Software Engineer. Part-time Trophy Hunter on Playstation Network. 👋
-## I enjoy making simple foods with fancy names (Currently on Cacio e pepe) 
+# Hi! My name is Zi Tan! 👋
+## Full-time Software Engineer. Part-time Trophy Hunter on Playstation Network. I enjoy making simple foods with fancy names (Currently on Cacio e pepe) 
 
 
  ### ✨ My Skills ✨ 
@@ -11,11 +10,11 @@
 🌱 I’m currently learning Data Structures and Algorithms!
 
 
-💬 Ask me about my projects!
+### 💬 Ask me about my projects!
 
- ### [Cloudify](https://cloudify1-afaa8a2d43bc.herokuapp.com/) - A Spotify Clone made using React, Redux, Javascript as frontend and Rails as a backend.
+ [Cloudify](https://cloudify1-afaa8a2d43bc.herokuapp.com/) - A Spotify Clone made using React, Redux, Javascript as frontend and Rails as a backend.
   
- ### [Running Idle](https://running-idle.onrender.com/) - An exercise app turned game created using the MERN stack.
+ [Running Idle](https://running-idle.onrender.com/) - An exercise app turned game created using the MERN stack.
 
 
 ### 📫 How to reach me: 
